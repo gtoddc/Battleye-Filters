@@ -1,5 +1,5 @@
 // A3Wasteland - scripts.txt BattlEye filters by AgentRev
 
-3 "addWeaponTurret"
-3 "BIS_fnc_AAN" // AAN news banner crap
+5 "addWeaponTurret"
+5 "BIS_fnc_AAN" // AAN news banner crap
 3 "onMapSingleClick" !"\"onmapsingleclick\"" // log possible teleport hacks
