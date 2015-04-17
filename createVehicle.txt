@@ -4,7 +4,8 @@
 
 // Vehicles
 
-5 "^[BOI]_(?!\d)((APC|Boat|Heli|MBT|MRAP|Quadbike|SDV|Truck|UAV_02|UGV)_|Lifeboat)"
+5 "^[BOI]_(?!\d)((APC|Boat|Heli|MBT|MRAP|Quadbike|SDV|Truck|UAV_02|UGV)_|Lifeboat)" !"B_APC_Tracked_01_AA_F" !"I_APC_Wheeled_03_cannon_F" !"B_APC_Tracked_01_AA_F" !"C_Van_01_fuel_F" !"B_G_Quadbike_01_F" !"B_Truck_01_ammo_F" !"B_MRAP_01_hmg_F" !"B_MBT_01_cannon_F" !"B_G_Offroad_01_armed_F" !"C_Offroad_01_repair_F"
+
 5 "^[BOI]_(?!\d)([HG]MG|Mortar|static_A[AT])_" !"_(weapon|support)_" // Allows disassembly
 
 // Ammo boxes
