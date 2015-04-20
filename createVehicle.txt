@@ -4,26 +4,25 @@
 
 // Vehicles
 
-5 "^[BOI]_(?!\d)((APC|Boat|Heli|MBT|MRAP|Quadbike|SDV|Truck|UAV_02|UGV)_|Lifeboat)" !"B_APC_Tracked_01_AA_F" !"I_APC_Wheeled_03_cannon_F" !"B_APC_Tracked_01_AA_F" !"C_Van_01_fuel_F" !"B_G_Quadbike_01_F" !"B_Truck_01_ammo_F" !"B_MRAP_01_hmg_F" !"B_MBT_01_cannon_F" !"B_G_Offroad_01_armed_F" !"C_Offroad_01_repair_F"
-
+5 "^[BOI]_(?!\d)((APC|Boat|Heli|MBT|MRAP|Plane|Quadbike|SDV|Truck|UAV_02|UGV)_|Lifeboat)"
 5 "^[BOI]_(?!\d)([HG]MG|Mortar|static_A[AT])_" !"_(weapon|support)_" // Allows disassembly
 
 // Ammo boxes
 
-5 "^Box_" !"Box_NATO_AmmoVeh_F"
+5 "^Box_"
 5 "^[CBOI]G?_supplyCrate_"
 
 // Civilian & guerilla stuff
 
-3 "^C_" // Comment this line if you need to allow civilian units
-// 3 "^C_((Boat|Hatchback|Heli|Offroad|Quadbike|SUV|Van)_|Rubberboat)" // Uncomment this line if line above is commented
+5 "^C_" // Comment this line if you need to allow civilian units
+// 5 "^C_((Boat|Hatchback|Heli|Offroad|Quadbike|SUV|Van)_|Rubberboat)" // Uncomment this line if line above is commented
 
-3 "^[BOI]_G_" // Comment this line if you need to allow guerilla units
-// 3 "^[BOI]_G_(Boat|Mortar|Offroad|Quadbike|Van)" // Uncomment this line if line above is commented
+5 "^[BOI]_G_" // Comment this line if you need to allow guerilla units
+// 5 "^[BOI]_G_(Boat|Mortar|Offroad|Quadbike|Van)" // Uncomment this line if line above is commented
 
 // Buildings & objects (128-char limit between quotes)
 
-3 "^Land_" !"^Land_(BakedBeans|BarrelEmpty|BottlePlastic|Can(ister(Fuel|Oil))?|CashDesk|Ground_sheet|Money|Sleeping_bag|Suitcase|TentDome)_" !"^Land_(Rope)_" !"_(dam|ruins)_F$"
+5 "^Land_" !"^Land_(BakedBeans|BarrelEmpty|BottlePlastic|Can(ister(Fuel|Oil))?|CashDesk|Ground_sheet|Money|Sleeping_bag|Suitcase|TentDome)_" !"^Land_(Rope)_" !"_(dam|ruins)_F$"
 
 // Game logic (comment these if it causes problems with some addons)
 
@@ -34,7 +33,3 @@
 // VR entities (blue/red/green/purple ghosts)
 
 5 "^[CBOI]_Soldier_VR_"
-
-5 "^_Plane^" !"B_Plane_CAS_01_F" 
-
-

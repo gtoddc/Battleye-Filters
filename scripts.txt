@@ -2,4 +2,5 @@
 
 5 "addWeaponTurret"
 5 "BIS_fnc_AAN" // AAN news banner crap
-3 "onMapSingleClick" !"\"onmapsingleclick\"" // log possible teleport hacks
+5 "onMapSingleClick" !"\"onmapsingleclick\"" // log possible teleport hacks
+5 "ctrlCreate" !"_prevButton = _display ctrlCreate [\"RscButtonMenu\", 90110, _dbg];"
