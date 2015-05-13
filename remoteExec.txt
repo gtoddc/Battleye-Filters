@@ -1,5 +1,5 @@
 // A3Wasteland - remoteExec.txt BattlEye filters by AgentRev
 
-5 "" !="" !="true" !"^vehicle this (flyInHeight \d+|land 'LAND')$" // Allows UAV usage
+5 "" !="" !="true" !"^vehicle this (flyInHeight \d+|land 'LAND')$" !"ambientFly = [_startpos, _endpos, 400, "FULL", "B_Plane_CAS_01_F"] call BIS_fnc_ambientFlyBy;" // Allows UAV usage
 
 // Feel free to mass-ban all GUIDs from remoteexec.log
