@@ -769,4 +769,330 @@ f78f54308a44ace66c032ba16d22608d -1 HACKER
 f78f54308a44ace66c032ba16d22608d -1 HACKER 
 6aec0d9f2894e3799549e48b2162e63a -1 HACKER
 b1bfde0dc66788abd5450b8c9cf73a1a -1 HACKER
-
+9aa6987f210b9463cdc5e45a63c6c403 -1 HACKER
+568c65b95e1ad0619d893a6542790cfc -1 RACIST
+e20dbd63c251e97f0eb10518b4feae3b -1 HACKER
+e20dbd63c251e97f0eb10518b4feae3b -1 HACKER
+d3c2ba2bba5b1b5d954bb7a3231adaaf -1 HACKER
+fe10e00a3b5983809462b35a976c5615 -1 HACKER
+195d8f9fbe3ceb94ee4f92b7f4c14d17 -1 HACKER
+3ecb6139c83a3930543d1fadda86541e -1 HACKER 
+a42b6c9a7cc2276bacb6fa707aebfa67 -1 HACKER
+d3086802b112b400ca1355c9e803b439 -1 FLYING HACK BYE
+823f387346b87b1aab3a735a114d69f8 -1 HACKER
+7e3c6d49c5b7c5cbbeca42507f887323 -1 HACKER
+f5202e0dac313d1e108fafcf44204902 -1 HACKER
+15ce222a0ebcd40a54b9e591c61da046 -1 HACKER
+4b4df7dd2e818941a91283e9aea2d366 -1 HACKER
+bb46eb11fb52137616f046fd57b1a807 -1 HACKER
+0d5e1b42c34635cdf3881e20ad6e3a82 -1 HACKER
+f5202e0dac313d1e108fafcf44204902 -1 HACKER
+bb46eb11fb52137616f046fd57b1a807 -1 HACKER
+c8f96d103313f3ce2282fd9545d15ee4 -1 HACKER
+fae681d14d76f9c8c5bfb022af6c0895 -1 HACKER
+3ecb6139c83a3930543d1fadda86541e -1 HACKER
+c54d3def683b43d27284f128883f8339 -1 HACKER
+73448bef0a5476c9c5931d5d58772af9 -1 HACKER
+77ae63d4d2bddf2b48c118d25bb70bda -1 HACKER
+d8edaa195c6ef6354fab5105e1261a91 -1 HACKER
+e9d267ed0d58d1b18fe7dc3e66b06150 -1 HACKER
+aa976717e7265dcc18125fdd29f223a7 -1 HACKER
+93191b125d211ea508603f62c2706bc4 -1 HACKER
+d8edaa195c6ef6354fab5105e1261a91 -1 HACKER
+c1aadac7bcbee7a79c330d808d3f87cd -1 HACKER
+063b462c073418b7aaf766333ffb5f34 -1 HACKER
+0d07d66c6e1fa3b554a72f61dcb7be43 -1 HACKER
+70996852e3dfdafc76074fc771772bce -1 7 DAY BAN - ADMIN ABUSE
+7b7a23d1d3774dad6f6c4a0a65dc53bc -1 HACKER
+9a0df6631a495df53974af5c4d04c795 -1 HACKER
+730ffcd756f38d286c6add8f84f3d8d5 -1 HACKER
+c162a598ed9fe19b914ec7e8bae4c951 -1 HACKER
+d39617eeebdb6fd37cf365a3f5239284 -1 HACKER
+14a9665c32ef0253df5d9973fc3b21f7 -1 HACKER
+490dc0583824ace13c03b2752bd02ddb -1 BYE HACKER ^_^
+8159dcbe3761282aa86138a9b4337fe6 1432054734 Teamkilling players - against server rules
+3f987292c2c870e54f32ed72d2737b7c -1 HACKER - TP
+887a5d0964c192247d6c1c4610f7ba9a -1 HACKER TP
+e2f0997fb7cfdb2fa45eca3907497926 -1 HACKER 
+2c7b07b8137e5a15ec44b997f4bfcd8f -1 HACKER
+25a066f26ca0dd4f2f116109d9c653db -1 HACKER - TELEPORT
+7418e71cced43016dcaaee2fe8d8b329 -1 HACKER - TELEPORT
+a850b8b94b770e64d2b02aea0ae7c292 -1 HACKER TP
+8f28d1ad4f969d8f0a7195f39d4e6773 -1 HACKER TP
+84ae3e08d22484135f51d72ba7db91ca -1 HACKER TP
+8f28d1ad4f969d8f0a7195f39d4e6773 -1 HACKER REMOTEEXEC
+8f28d1ad4f969d8f0a7195f39d4e6773 -1 HACKER PV
+987fd6c82fac4bedbd966191129f7e6e -1 HACKER CV
+e812e56ef4075fdef58571c4ab79b1df -1 BYE BYE
+6b9a3aaba58a7e8aafdba9bf63be4efe -1 BYE BYE
+6f6f7eb5986a305a7c5893becd8443c9 -1 HACKER - SL
+0799de1625f848a6f078314c68b6d6c1 -1 Script Restriction #2 (BLOM)
+009866a0662f1f690fddc203a0bb2a96 -1 HACKER SL
+0799de1625f848a6f078314c68b6d6c1 -1 HACKER SL
+6f22161828acc7a70af929dcee8bbbb8 -1 Hacker.
+738bcc136faab11b2e5d7d311ce02f27 -1 BEC : GameHack #38
+a904faa2b02fc848e220515b65412e42 -1 BEC : GameHack #38
+143570c6155709289e8bbc017ef1ca70 -1 John: toString.
+580948cfe3cf8e3a9aa4e42ccb4c405b -1 Ghost: toString.
+df09709e3aa85577736a0c359e253e59 -1 DarkAnus: createVehicle.
+f03c8fb13c3e4cb9614061c0c88363f2 -1 Jimmy: Ligtningbolt.
+7f95822cc793c9c54d68b68f1257ed44 -1 geko__000: createVehicle.
+f4148cc670abb5f96cdbc19d64260383 -1 Joey: bug exploiting.
+90a906932455d332080f2b863cb39601 -1 Ho Lee Fuk: bug exploiting.
+a4b3a37f867a4c508b9b6052f0f638fb -1 [WD]Dark: remote execution.
+df1e41d6b6913c9db7a5e901dc73f5c3 -1 BEC : Caught for GameHack 38. Contact Server owners
+db25d3cfb11a80a1a5f5b5cb3b3cd30f -1 SPEEDY LiVe: hacked unit Goat_random_F.
+d46b294b29961db73cece7190d2ea6c8 -1 Amina Yarrk: cargod and createvehicle.
+9387ace42bb655a3d15d9a1761009b8c -1 Jacky Creeks: createvehicle.
+0a426b282e3c9a928c95759aa27af59f -1 BEC : Caught for GameHack 38. Contact Server owners
+022e9ec2865331434334035ee4f0ad75 -1 [myg0t] sk1d: hack menu. RscDisplayFileSelect.
+1da264cce728deaa92405f9da372e262 -1 BEC : Caught for GameHack 38. Contact Server owners
+69c247144c83b76850d1b3134b1de7dc -1 BEC : Caught for GameHack 38. Contact Server owners
+a6387de45e6127321b534618d3e2dfa0 -1 Wafia: [hack variable] with the value [LY_Init].
+d89d6d76aa6402d7ab87e2229e20fa38 -1 Raz'ahlgoul: [hack variable].
+1cbe823e71cea2baa1a76ac083e849b2 -1 BEC : Caught for GameHack 32. Contact Server owners
+076dd22263d1fc44282c1916ca15fced -1 BEC : GameHack #38
+0adcf2e5bbd68666c975297d9df8e430 -1 RadicalPamo: createvehicle.
+afa1b568e0f598f8e63ad22df7cebd37 -1 BEC : Caught for GameHack 38. Contact Server owners
+8e46e4c7f272af10ef9e2c2c56df0bef -1 [Admin]Arnold: random spawning in helicopters.
+6ba17112557acc49a1cb5f5aad98909c -1 Usidi: createvehicle Box_NATO_WpsSpecial_F.
+070d3a57e94b35cdd0f6f5c24f86561d -1 BEC : Caught for GameHack 38. Contact Server owners
+34a9165be8b9a22a149eaa549817a008 -1 BEC : Caught for GameHack 38. Contact Server owners
+4251fa28fc7c4b012a3ca02e4739f830 -1 Hikage: hack menu.
+c6b2f828f9abf361e055600d07d04569 -1 matjo9: hack variable.
+91279f636fd91643e30e3cfcbb5265fd -1 GHOST01: hack variable.
+b847d0595bc677f27d4caeb507f67db9 -1 Sascha: using hacked units.
+00a689322b7fd01d0cd771997340786e -1 ThaRealCamotrax: using hack variables.
+44844be6b91ef6e91c1e9c7e13c4cfb2 -1 BEC : Caught for GameHack 38. Contact Server owners
+3120ab0743c370ba7c5802c9ca2371d3 -1 BEC : Caught for GameHack 38. Contact Server owners
+0bb246757f03197a7070e8ae8e49c313 -1 BEC : Caught for GameHack 38. Contact Server owners
+549a03e8199605361e48c76d5ab90977 -1 BEC : GameHack #38
+51d4615aab1240e60821a2c168d8002f -1 Danny: script and publicvariable abuse.
+3e80428800edb0fad2930234a42ab5d8 -1 McGrumpy: Suspicion of teleporthack.
+3a3714f3aac881679f7a9a4a0646dec9 -1 Detlef Schmitt: createvehicle.
+c35ac6c6bd5ed1f234cb3e6773b6d44e -1 Urangutan-Klaus: createvehicle.
+86b44d40cccf41a91a5917dbfc982339 -1 Ernie: hackmenu.
+177cad78830e0c1faa18ff56ffe15b90 -1 KeyBoyd: hackmenu.
+dd40cd929d9e7b46ae8693067573a852 -1 BEC : Caught for GameHack 38. Contact Server owners
+32a391aed48aef37ec2fa2f36f514ebc -1 BEC : Caught for GameHack 38. Contact Server owners
+29f4ddd8ff2fb21f3bfcdf34da82d3a4 -1 Acer364: hackmenu.
+de95cc051a8162bd5db4b30e94750578 -1 Mr.Fox: Scriptkiddie and createvehicle.
+3fe3a360f90ea28f64613946f6b3bc1a -1 Wilbert: script abuse.
+a66b134c4581d99c8a07c48795cca1f4 -1 BEC : Caught for GameHack 38. Contact Server owners
+ddc00f2b24152e33d4abc4e6ddb46add -1 Birozov I.: suspicion of money dupe.
+d338717bc06b6e003b0f2a61985e5700 -1 Madmax: suspicion of money dupe.
+96606ea64494061f6493590f8b524662 -1 lorenzo: suspicion of money dupe.
+d7e913aa4452e506ff958eb61769511a -1 [MIS]Pazificador: createvehicle.
+d9e05144ecbd3b8fe03ef7c3475415d7 -1 BEC : Caught for GameHack 38. Contact Server owners
+a90180a35f0a6491f6aa255a34d8c7cb -1 BEC : Caught for GameHack 38. Contact Server owners
+332ab6d076731c4a4dbc4ed109524f40 -1 Benjamin: teleport and server crashing.
+e42392dfed7d669f71b496e258b64444 -1 BEC : Caught for GameHack 38. Contact Server owners
+c7e9342a270a09d6d3eb91fec44972bf -1 Stieven: trying to end the mission.
+4b05114a6d1393eb69e2f3b3136991c1 -1 DR. Bob Marley: teleporting and hacking.
+bc17b51d5bb798e225fcbb644fae9d11 -1 Jack Steel: remoteexec.
+b60450152432c4b2559a9402295e80c1 -1 Quintin: lightning bolt.
+d0f230d5c5029dd991d3ce43c99863a0 -1 [Inc] Sleufex: hack menu.
+90790469b18c30942f646f64170c7676 -1 Sgt. Mac Gyver: hack vairable.
+2b1b68ac246953f0b2cab871b3a955c2 -1 ProAtRaging: hack menu.
+da2c2feb7dd22bbc87d514376b88774a -1 Patrick: Offensive language.
+9d7749ab2cc6629278d8035c8e2c24f3 -1 MRX: no recoil hack.
+e078e4ca349e592b79c88812ac519c0e -1 PotatoNinja: hack menu.
+b6e462bb82af200bb5342a8475fd9dc7 -1 BEC : Caught for GameHack 38. Contact Server owners
+5df031dd54bb653cc5ccce07840959a0 -1 Duy: hack menu.
+734fb434c57a32cce5e7e2ee01321445 -1 Glenn Toft: Teleporting-hacking-griefing.
+946aaa784ea3c73ec1dddfccb04d49bf -1 Thomas Neubauer: hack menu.
+a890118afbf7e12d31177bb23ac4a841 -1 [Doro] BRAINS: Teleporting.
+1b69c8e2ee9d3e04dadf6ad87c6378be -1 TempleZz: createvehicle.
+75fee3cf16973ca48370366a1adbd607 -1 PTO.Melvin: recoil hack.
+345c98d6a7384f3cc2c6e7ee592857f3 -1 James: hack variable.
+ad091c6661a3bcf871a26851ef1f4d60 -1 ScaniaGaming: publicvariable.
+2daa539b98f730b0931e82fedb0accc2 -1 Mr.Smithy: script kiddy.
+90efea735a66aefa4e83fecdcb786190 -1 BEC : GameHack #38
+9cbdb3fabf63c2579c87df9906ac69d0 -1 BEC : Caught for GameHack 38. Contact Server owners
+d96e31bc8dceed2a82973225aedefcb0 -1 is typing...: remote execution.
+3e94aeb3755b30adaa9d69044d050ddf -1 Monkeymanfistknuckle: hack variable.
+3b8fdf804c668c651dc9d4afb27f4560 -1 BEC : Caught for GameHack 38. Contact Server owners
+a61445ce0b9c0432cc28c4cb82e032d2 -1 BEC : Caught for GameHack 38. Contact Server owners
+93d24001423478f1d1de60da3065fa74 -1 BEC : Caught for GameHack 34. Contact Server owners
+e413339886a9e8644e982148dc0e7445 -1 BEC : Caught for GameHack 38. Contact Server owners
+7e3c6d49c5b7c5cbbeca42507f887323 -1 BEC : Caught for GameHack 38. Contact Server owners
+2642a797de0ca440028b58711fad2f27 -1 Chris Kyle: suspected money duping.
+e54b8bb4d00de64e5a894f5a54968127 -1 bariga: suspected money duping.
+90a092cca45d119146ec61895bbe6c97 -1 BEC : Caught for GameHack 38. Contact Server owners
+fb917d0ce54f1d4a3c03f93cfed5afdc -1 Kevin: teleporting and other shit.
+953936702b316a4aa0bd182afd1599a6 -1 [YO] [Schtz.] Peter Z.: createvehicle
+d3e0ebffa7644d178372d5a4ec09173d -1 [TOD]Amarosh: hack menu.
+17cc6411795904f6607f22afe1e2f011 -1 BEC : Caught for GameHack 38. Contact Server owners
+bc5d63285f5cd2224fa2bff34b166241 -1 BEC : Caught for GameHack 38. Contact Server owners
+b138ead13cfd0eef80afc2d8e5b330fd -1 GaryWashington: hacks.
+346061ea54ffbf98c41924317db4db6b -1 BEC : Caught for GameHack 38. Contact Server owners
+afbc330b229565445e9e08ac56effd5f -1 BEC : Caught for GameHack 38. Contact Server owners
+44a778d6e0c8b1cb65bda70be8012ea3 -1 BEC : Caught for GameHack 34. Contact Server owners
+405aec2a948ab2bfe772934166622df6 -1 paris: hack menu.
+3cae8bc8c0d40ff03b61ccebf694dd8e -1 BEC : Caught for GameHack 38. Contact Server owners
+e1cf0567702f16c50247fdf9bb04af99 -1 Caelum: hack variable.
+838b9258f7b4f20ec6894f25f2a9e8a2 -1 Franck Dejivecet: teleporting.
+c77c5cb971f3f670384d09f0d35055f2 -1 sdhjaskjd: createvehicle.
+210154d6ff08610ee76d46eee7ecae03 -1 Vladimir Bagrov: createvehicle.
+fbf3cda8624f6425ccd76fcd740e74e6 -1 MrRazex: createvehicle.
+aed12b3aa083b47c0a0d2a4bd85a6b71 -1 David Aayan: createvehicle.
+5b3aa4e9cf6fb0864e21c845b9b127e9 -1 MrMadball: createvehicle.
+9b59ffabbb5ef63ac0a6b824cbcbf935 -1 BEC : Caught for GameHack 38. Contact Server owners
+20524b54f79b1448dd0fd5f4c40751f2 -1 stefan: createvehicle.
+c6ac7a0e6d9f03d6167548b83621f9e0 -1 [SOA] phil: remoteexec.
+39aa683b26174825f80b33f46e37c70d -1 Leedle: hack menu.
+b55899d0a7fcadfbcbd6d885011ef2d6 -1 Bobby: createvehicle.
+16841ad6d95821dbe37c899a6a201347 -1 BEC : Caught for GameHack 38. Contact Server owners
+cd3808d37251c06c326e9fc484182b21 -1 Szmordog: publicvariable.
+2bb7cc5a8bc8e88154c9c1e29e714405 -1 Marco: createvehicle.
+d9120284a9364ab4c2aacd5d79002c64 -1 Pvt J.Frost: createvehicle.
+7496f163e360b0dbfe51eee6098e9907 -1 Sandro Saitek: hack menu.
+110cdbde13e29ba01141749f27e287b3 -1 TheFish: scripts.
+f43d09483cb32c947ff705e9e6718aac -1 BEC : Caught for GameHack 38. Contact Server owners
+e6624e9d1d3ff1d73a1badc5cf524c08 -1 WhiteFlameLoco: Recoil Hack.
+f583273914866c50d59992084a5e302f -1 Dieforlol: scripts.
+2d0bacd2ddb652e543eeee1532c5bc06 -1 Cory: recoil hack.
+7436107ac1a0c4a8099aae3fcaa87392 -1 El Cameleon: hack variable.
+c67ae662480f62e1e7550a19f9c55728 -1 Steven: hack variable.
+4ddb9be86f9f31163020ef4e1e1093c7 -1 Tyler: createVehicle.
+6c593452b6c323fad96463f77ea64032 -1 BEC : Caught for GameHack 38. Contact Server owners
+e9cc48df553f5e91e142935c9115ad2e -1 Jerren: CreateVehicle.
+00b0f1a8850c30f47a61f767bba5e6d5 -1 Ganja Sovyet: Scripts.
+0e05a7f96f427526f9a91b3a897674e4 -1 Tonic: Scripts.
+5177e03945b84d815bf1417c87563b45 -1 StunndMan: Group abuse.
+7155f00082e062b28f67e4eb51a9a9ea -1 Lepolas: CreateVehicle.
+bf92e93c114f98dfe34afbdf68f15d34 -1 Mike Whereismeaxe: CreateVehicle.
+145eeb6067cbe8b0b9831adea14de2e4 -1 BEC : Caught for GameHack 38. Contact Server owners
+c3d50a2332929fddd10d3ae8c44c461f -1 Samuel Luciano: scripts.
+d987c4c372af2a2394e37c222021cd34 -1 Kalum Chawi: scripts.
+cc35ace4de538a241028cc7dba2c2b67 -1 Lucas: remoteexec.
+c5a8b2d3ff2991e51165079ab02a6a22 -1 182 G: hack menu.
+a46f050a0e66307f9171cfe4f073b88b -1 Persona: scripts.
+922853b86aae0e116628f19d833590f7 -1 Jason: Teleporting.
+364b84d41c547e87e2540353dfd25cf6 -1 Kenneth WoÅºniak: Scripts and deleting everything in game.
+cce79b3af47907767ccd83378889ac1a -1 BEC : Caught for GameHack 38. Contact Server owners
+641bea82109ffb26f8fdc2236613e9fa -1 BEC : Caught for GameHack 38. Contact Server owners
+05c1e161e859ee2a454fe7cc2262f860 -1 Der_Bekannte: Possible cheats.
+af637d33ddc871c2e9641ef6b03de5d9 -1 [VIGIHERVE] Dlebrok: Not adhering to an admin request.
+382ba9c479059c3a8a3cb0319ddeb415 -1 Gay from Cherno: CreateVehicle.
+a288597c8e6585b5280a01fe32f3fa86 -1 Remie: Aanzetten tot ddos. Zwartmaken van leaders.
+500341b0f6478c60d8f783e63e11b55d -1 BEC : Caught for GameHack 38. Contact Server owners
+cf92c2e64230c59636da06abca4de75f -1 BEC : GameHack #38
+2ae73448f8a78321b9c2e8512847117b -1 Remond Poitou: Perm ban. Learn teamplay.
+eef895bf02be439a63c6784160c25b50 -1 zlatan ibrahimovic: CreateVehicle.
+533e39ea501067aa35b4967c4e6c7ec2 -1 [JGC]losttears: Money duping.
+cbf781cc3529d6b2dfd43683ff496f3f -1 Ekokeko35: CreateVehicle.
+3cef1bc52b16dab36b2948d2335f71f9 -1 Bastiaan: Scripts.
+b14808e70829284c0323921cc53a0ee6 -1 Max Teekens: Perm ban. Offensive language.
+a52625917d269e56a4c412146ffe4510 -1 Kaj: Disrespectfull to admins.
+29100d2d7f3afec2985cdbdbd2d43912 -1 Whitecore: hack menu.
+3f8ac5809e9d0a17562a5c6320c73aa0 -1 (ACG)Felix: Possible money dupe. Contact LouD.
+dd530d24ca39034ec7f69b85b659dfd9 -1 Valentijn: Perm ban. Offensive language.
+9e1c40a1eefec337c6e9170c1d921101 -1 Brent Smith: Scripts.
+11394041f7949da4f5f5ec773792a877 -1 Antonio: Scripts.
+edd2ac269ebb39bb510b45b0a74b5770 -1 eNULL: CreateVehicle.
+b10bc9a01c9362fef3eeff1d78849593 -1 Chikitune: Spawning in gear.
+2ffcdd18a1c49d82a7db615aac592147 -1 Leroy (2): Offensive language. Perm ban.
+f68ff2c42733ef7a5dcbad44d4c132ec -1 Leroy: Disrespectful against admins. Perm ban.
+5559aaa63ace671613996cf6fa4e083e -1 Syntiax: hack variable.
+9fccdb5445194c5bca2e80f23edac49f -1 Turbo: Scripts.
+dc4255306da8f9988f243f205520d9ee -1 Herr Darm. Scripts.
+4e6f3405d1b83443079b39f604e57e0e -1 Danny Sulivan: CreateVehicle.
+0630f4937de61779f2cb118e4e3cc703 -1 Oppa Franz: Cheats.
+a6d5b159419639fdbc6d888078fd9664 -1 SpooX77: Disrespectfull. Life time ban.
+2b758af111e01abfdef9f9905f5ff33f -1 jamie: Hack variable.
+ea3b94aa8f65d24dd0736ed156a61998 -1 Vampirus Al asad: Hack variable.
+70f1150a1d7aece8b3882a453c7f44e1 -1 Anonymous: Hack variable.
+fe16804dc93c491d0fb7affcf79bb49c -1 Nieky: Offensive language.
+6e0aa2b82f7ad3c963d51f11fd0836a2 -1 Yoshy: Trolling.
+31211aea7e34147ba0d1395de779570e -1 [H||S]Kinetic: Impersonating admins. Perm ban.
+714491475b63c9905980b0f864ffe1ef -1 Candymen: Recoil hack.
+43563837793228557e1c851991d8f50c -1 GreenLion. CreateVehicle.
+bd46e460d7da5cf820d24a95317bf82d -1 UnknowN8DE: Hacking.
+15ed479bc0315760855200ba54230ef9 -1 PIXAPOCALYPSE: Hacking.
+7449acab3ef9362cbc369543410a7ee6 -1 Mujib. Hack Menu.
+7d867e2b84e341134caccb9bc12c78b7 -1 Br0kenLove: Using Recoil Hacks.
+0e83c81714d5d6247268e84f340da042 -1 Walter: Scripts.
+3329bc5863faa31fe3c76fe25b5eb42d -1 [OS]Acetanker: CreateVehicle.
+033113770a3c4b54203fbf721a23daf6 -1 BloodHound. You will never use the phrase "GET CANCER" here.
+c3be712d4d28740be84f8143202e3935 -1 Harrison Bradsha: CreateVehicle.
+4769b6e4513b6d3839467cb2b5f88238 -1 Sadam Houssaine: Scripts.
+793ed88b45d147ff616d76429f9d8cc3 -1 Steven Dubois: CreateVehicle.
+b2cbe2a3435c3bc10bfba29e7e302477 -1 MC Kraut: Scripts.
+db8bf4d585e5c032a25a4e134cf49fb3 -1 stefansteinbock: CreateVehicle.
+280d83a2c2f6cf13abd8a748872eb227 -1 Vetox: Hack menu.
+e049ab5e7584eb48853c350617b9e53d -1 Philippe Armageddon: Scripts.
+e553ea14c1e71f137aec10785c4e2fb3 -1 Tommy: hacker.
+22114982db41ce925f284a1715b8fd1d -1 Rikky Adam. Never call anyones mother a prostitute. Bye Bye XXXX
+21da83057e8a62d554b8a58464427dc0 -1 Zaggi: Annoying sounds.
+c3bfb7ca087e5c36a4ff91e181c85eb8 -1 mirkopp10: Scripts.
+dbafdc53fc61490440995c0a3e0e1802 -1 xxxTheRealHadixxX: CreateVehicle.
+6686307a057cc39d45171a2293e820f1 -1 Thomas: Scripts.
+e2be79b5328893e5b476d40b0bb217f4 -1 Ole: Scripts.
+9a1d2da45481bee3033a593b39faa547 -1 Molte_000. Ban for using Hacking Scripts.
+9336eaa27b1175cbc6169d5f5f86276f -1 Bas: CreateVehicle.
+5b904d9f9ec6f7aa0b2cd9a5b0e90526 -1 denni_000: Scripts.
+9a1d2da45481bee3033a593b39faa547 -1 molte_000: hacking addon.
+28cd290bde547f91d8b6f1336580e13b -1 Daviid. Using Hacking Scripts
+17b5853f2b0e5e1435c955c1d564170b -1 Philipp Raumler: Scripts.
+ba3ad7924b96b0f5189d84a78b8644fe -1 HortonHinglebert: Scripts.
+a5a08cbd1af72e58b95f193b39257932 -1 Joe Cocker: CreateVehicle.
+ed286d3d3b19a6d648b3ecb1e4886429 -1 Wouter: Disrespectfull
+9b330574d4486d3ce6ad62f8211655ee -1 [RE]El Loco: CreateVehicle.
+cfdcd73560e74e4f18aab8d250583be2 -1 Bam Margera: Teleporting players.
+71bd7c70bf070c50832468e973558a45 -1 Liam Flamson: Deletevehicle restriction.
+e1486857407fe036e9e46959e794517d -1 Blau: Deletevehicle restriction.
+cdd55e200cff0eef8b16da777fb62f28 -1 Nord: hack menu.
+4f6208a811e676247bf0201053e0efce -1 Jacek: Using cheating scripts.
+9be66deaed9d01bd2d275c95517efc4a -1 Snowi: CreateVehicle.
+724598c28e4b5814bdec24c2eb8948f8 -1 A Melted Snicker: CreateVehicle.
+724598c28e4b5814bdec24c2eb8948f8 -1 conner: Scripts.
+43563837793228557e1c851991d8f50c -1 Banned by DaRT!
+4cc911634983320416b2f609f762b745 -1 Banned by DaRT!
+6d1579e224bc2418953a07b2167053ff -1 Banned by DaRT!
+ec7a527621ecaec77aff3ae111641e3b -1 Banned by DaRT!
+c1f57693222e75c08c393f3bd2a37264 -1 Banned by DaRT!
+34a9cb34283c733c0ec521c370828f30 -1 Banned by DaRT!
+2db547558434d1567eb1c38ad44b6348 -1 Banned by DaRT!
+56ec0a19af1883cf5ce6dfd56b221abe -1 Banned by DaRT!
+4cf08c035c4cb9d9a9ba0c8fbe2916ad -1 Banned by DaRT!
+a533f08284daa8070be60cf8a0ba169a -1 Banned by DaRT!
+d58f417248c302bddfca7fa10af1470f -1 Banned by DaRT!
+f9e5d815477055ae8d76a718d5577ec7 -1 Banned by DaRT!
+a533f08284daa8070be60cf8a0ba169a -1 Banned by DaRT!
+197ae9e4f6e68c4fbddddfb7272e2c9c -1 Banned by DaRT!
+c70b9164021fcad9f5afd12d9bf7e375 -1 Admin Ban - hacking TP + god
+93ae27f8637080cb77210219b041a0c3 -1 Admin Ban - Spawning Vehicles / Teleporting
+968ab14cc523c5e989d8f9fe250d5045 1602787675 Admin Ban
+455263dcf06190ebda047ee4473240a6 -1 Admin Ban - Hacking
+e811e838f7e070df49d08cd072a4a9de 1607790775 Admin Ban
+6d50a1011bd95c3a4e1bf5fbbf383121 -1 Admin Ban Hacking Teleport Gearing Up
+6dd46621e43f029d27cf83bd643eae4a -1 PatPgtips Ban Admin Abuse 
+de95cc051a8162bd5db4b30e94750578 -1 Admin Ban Suspected Hacking
+d19a72f79b9778760a3a9e3699657ff9 1640297515 Admin Rusty Ban Teleporting Hack
+d1de9dfe265f57771d49aa3e7aa78944 -1 Admin Ban Suspected Hacking Teleport
+6bcb79d8dd352a71af256e0e4df3ddbd 1649625475 Admin Rusty Teleport Ban
+cb2b16774b7ad0c0ff92359232ea5586 -1 Admin Ban Suspected Hacking Script Log #30
+4891d4fc54e418eaf87f6f310e7ee333 -1 Admin Ban Suspected Hacking Script Log: #57
+39b0c667d9d6d738e97e343c6238b5bd -1 Admin Ban Hacking Glitching Have A Nice Day
+7a4148fedb26bf969bd6e89b8e9a29fd -1 Admin Ban Suspected Hacking
+3b0de748ad422218aed260460170978e -1 Admin Ban Suspected Hacking
+0b33b4cd61a70b95cebbf1bac1fecbfd -1 Admin Ban Suspected Hacking Script Log #17
+309c375e02e9c6460e3219ffa899ccc0 -1 Admin Ban Hacking SSPCM
+c1aadac7bcbee7a79c330d808d3f87cd -1 Admin Ban Hacking Script Log: #41
+9f548ee0a0272761a6b85ac65adacff5 -1 Admin Ban Hacking Have a Nice Day http:
+aeb6c8fbbc2ff8c35e13b9a385871167 -1 Admin Ban Suspected Hacking 
+cf04bfbd2eaaf3eb975902a06e70e822 -1 Admin Ban Suspected Hacking Script Log #53
+f82bdc1ecbdfe3d53643b8012ee0345d -1 HACKER PV
+f82bdc1ecbdfe3d53643b8012ee0345d -1 HACKER
+3ea75d48ca611e007c966e9d5072b56d -1 HACKER BYE XD
+52c415a19a6591451f92e7667252983c -1 GLOBAL BAN
+d2065c28c33be50c02a11b3ca036b4f0 -1 HACKER - VL
+d37470acf3dfaf61d378f3cbc743f0f7 -1 HACKER - VL
+04d667a8d17bf02672fc6e08bd47421b -1 HACKER - SL
+d2065c28c33be50c02a11b3ca036b4f0 -1 HACKER - SL
+299995525c9dfade2ee43ccf02ef17f5 -1 Hacking speed hack and god mode
+04d667a8d17bf02672fc6e08bd47421b -1 HACKER - TP
+be5b7f2c468be59031974a687e9e834b -1 HACKER - SL
+ed422b85af62fcdef61feb5ce1da97de 1432395213 INTENTIONAL TEAMKILLING - 7 DAY 
+a8d05c55335db48e05f1bada2c37b1e0 -1 HACKER - SL
