@@ -27,7 +27,7 @@
 // Game logic (comment these if it causes problems with some addons)
 
 5 "^Lightning"
-5 "^Logic"
+2 "^Logic"
 5 "^Module"
 
 // VR entities (blue/red/green/purple ghosts)
